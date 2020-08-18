@@ -16,19 +16,19 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "Moscow"
-title                    : "Personal Website"
+title                    : "ABDU"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Abduragim Shtanchaev"
 description              : "This is my personal website. Here I share posts"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "Abdurrrahheem.github.io" # the subpath of your site, e.g. "/blog"
+baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
-words_per_minute         : 200
+words_per_minute         : 150
 comments:
   provider               : # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "custom"
   disqus:
@@ -94,14 +94,14 @@ analytics:
 # Site Author
 author:
   name             : "Abduragim Shtanchaev"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Data Scientist"
-  location         : "Moscow, RU"
+  avatar           : "images/avatar.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "mind the tongue"
+  location         : "Moscow"
   email            :
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
+      url: "abduragi.shtanchaev@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
@@ -110,14 +110,19 @@ author:
       # url: "https://twitter.com/"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-      # url: "https://facebook.com/"
+      # url: "https://www.facebook.com/abduragim.shtanchaeb?ref=bookmarks"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
+      url: "https://github.com/Abdurrahheem"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
-
+    - label: "Linkedin"
+      icon: "fab fa-fw fa-linkedin"
+      url: https://www.linkedin.com/mwlite/in/abdurahim-shtanchaev-
+    - label: "Resume"
+      icon: "fas fa-fw fa-file-alt"
+      url: https://drive.google.com/file/d/1kdHeVXTMoeg27DP9PzL9C2Bs5skTa8CO/view?usp=sharing
 # Site Footer
 footer:
   links:
@@ -126,10 +131,10 @@ footer:
       # url:
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-      # url:
+      url: "https://www.facebook.com/abduragim.shtanchaeb?ref=bookmarks"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url:
+      url: "https://github.com/Abdurrahheem"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
