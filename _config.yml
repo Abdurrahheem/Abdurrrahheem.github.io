@@ -94,7 +94,7 @@ analytics:
 # Site Author
 author:
   name             : "Abduragim Shtanchaev"
-  avatar           : "images/avatar.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "images/avatar.JPG" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "mind the tongue"
   location         : "Moscow"
   email            :
