@@ -122,7 +122,7 @@ author:
       url: https://www.linkedin.com/mwlite/in/abdurahim-shtanchaev-
     - label: "Resume"
       icon: "fas fa-fw fa-file-alt"
-      url: https://drive.google.com/file/d/1kdHeVXTMoeg27DP9PzL9C2Bs5skTa8CO/view?usp=sharing
+      url: "/data/pdf/Abduragim_CV.pdf"
 # Site Footer
 footer:
   links:
@@ -291,5 +291,5 @@ defaults:
     values:
       layout: single
       author_profile: true
-      share: true
+      share: # true
       related: true
