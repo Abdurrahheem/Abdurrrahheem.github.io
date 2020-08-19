@@ -1,7 +1,10 @@
 ---
 title: "Camera-Trajectory-Estimation"
-category: "algorithm"
-tag: "python"
+category:
+ - algorithm
+tag:
+  - Python
+  - Computer Vision
 header:
   image: "data/images/camera-trajectory-estimation/trajectory.jpg"
 ---
