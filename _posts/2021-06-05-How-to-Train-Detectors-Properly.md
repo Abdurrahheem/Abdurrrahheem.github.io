@@ -157,4 +157,4 @@ Imagine you need a model that detects leaves of a specific crop and assigns a cl
 
 To conclude, I have found a couple of things to be helpful while I was working with detectors. If I knew these tricks, I think I would have spent much less time fixing issues that have silently degraded the accuracy of detection models I have trained. I also want to emphasize that these are not universal tricks and might NOT actually be helpful in some cases while being necessary in other cases. If you have found other tricks that helped you, I would love if you could share them with the rest of the community and me. Thank you :)
 
-Co-authored by Ekaterina Demina
+Co-authored by [Ekaterina Demina](https://www.linkedin.com/in/ekaterina-demina-15a66a1a8)
