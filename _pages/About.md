@@ -2,11 +2,12 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Mohammed bin Zayed University of Artificial Intelligence</a>. Abu Dhabi, UAE.
+subtitle: <strong>Ph.D.</strong> @ <a href="https://mbzuai.ac.ae"> MBZUAI </a> | <strong>ML Engineer</strong> @ <a href="https://opencv.org"> OpenCV </a> | <strong>M.Sc.</strong> @ <a href="https://new.skoltech.ru/en/"> Skoltech </a>
+# subtitle: <a href='#'>Mohammed bin Zayed University of Artificial Intelligence</a>. Abu Dhabi, UAE.
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: prof_pic_self.png
   image_circular: false # crops the image to make it circular
   # more_info: >
     # <p>555 your office number</p>
@@ -17,9 +18,13 @@ news: false # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
+<br>
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Hey! Thank for stopping by :wave:
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+<br>
+I am second year Ph.D. student at [MBZUAI](https://mbzuai.ac.ae), Abu Dhabi, UAE advised by [Prof. Martin Takac](https://mtakac.com). Previously, I completed my M.Sc. in Artificial Intelligence at [Skoltech](https://new.skoltech.ru/en/), Moscow, Russia. I hold a B.Sc. in Robotics.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+
+<br>
+I am interested in probabilistic generative modeling, stochastic processses, reinforcement learning and their application in real-world problems such as computer vision :eyes:, drug discovery :dna:, and beyond. Also, I am a big fan of open-source software and try to contribute to the community whenever I can. Specifically, I am helping develop and maintain [OpenCV](https://opencv.org), the world's most popular computer vision library :fire:
