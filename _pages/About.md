@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <strong>Ph.D.</strong> @ <a href="https://mbzuai.ac.ae"> MBZUAI </a> | <strong>ex-ML Engineer</strong> @ <a href="https://opencv.org"> OpenCV </a> | <strong>ex-M.Sc.</strong> @ <a href="https://new.skoltech.ru/en/"> Skoltech </a>
+subtitle: <strong>PhD student </strong> @ <a href="https://mbzuai.ac.ae"> MBZUAI </a> | <strong>ex-ML Engineer</strong> @ <a href="https://opencv.org"> OpenCV </a> | <strong>ex-MSc</strong> @ <a href="https://new.skoltech.ru/en/"> Skoltech </a>
 # subtitle: <a href='#'>Mohammed bin Zayed University of Artificial Intelligence</a>. Abu Dhabi, UAE.
 
 profile:
@@ -23,7 +23,7 @@ social: false # includes social icons at the bottom of the page
 Hey! Thanks for stopping by :wave:
 
 <br>
-I am second year Ph.D. student at [MBZUAI](https://mbzuai.ac.ae), Abu Dhabi, UAE advised by [Prof. Martin Takac](https://mtakac.com) and [Prof. Kun Zhang](https://mbzuai.ac.ae/study/faculty/kun-zhang/). Previously, I completed my M.Sc. in Artificial Intelligence at [Skoltech](https://new.skoltech.ru/en/), Moscow, Russia. I hold a B.Sc. in Robotics.
+I am second year Ph.D. student at [MBZUAI](https://mbzuai.ac.ae), Abu Dhabi, UAE advised by [Prof. Martin Takac](https://mtakac.com), [Prof. Eric Moulines](https://scholar.google.fr/citations?user=_XE1LvQAAAAJ&hl=en) and [Prof. Salem Lahlou](https://scholar.google.nl/citations?user=xLSkCrIAAAAJ&hl=en). Previously, I completed my M.Sc. in Artificial Intelligence at [Skoltech](https://new.skoltech.ru/en/), Moscow, Russia. I hold a B.Sc. in Robotics.
 
 
 <br>
