@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <strong>Ph.D.</strong> @ <a href="https://mbzuai.ac.ae"> MBZUAI </a> | <strong>ML Engineer</strong> @ <a href="https://opencv.org"> OpenCV </a> | ex. <strong>M.Sc.</strong> @ <a href="https://new.skoltech.ru/en/"> Skoltech </a>
+subtitle: <strong>Ph.D.</strong> @ <a href="https://mbzuai.ac.ae"> MBZUAI </a> | <strong>ex-ML Engineer</strong> @ <a href="https://opencv.org"> OpenCV </a> | <strong>ex-M.Sc.</strong> @ <a href="https://new.skoltech.ru/en/"> Skoltech </a>
 # subtitle: <a href='#'>Mohammed bin Zayed University of Artificial Intelligence</a>. Abu Dhabi, UAE.
 
 profile:
